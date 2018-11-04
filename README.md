@@ -12,16 +12,16 @@ This repository contains the implementation of several data visualization skills
 
 ## Project 1: Basic Visualization Techniques
 ### *dataset: car*
-### bar chart 
+* bar chart 
 <img width="500" alt="task1_bar chart_europe" src="https://user-images.githubusercontent.com/44735519/47966802-aebf0980-e024-11e8-80b6-7777fd12c451.PNG">
 
-### line chart
+* line chart
 <img width="500" alt="task2_line chart" src="https://user-images.githubusercontent.com/44735519/47966806-b2529080-e024-11e8-9fd8-88013054e373.PNG">
 
-### scatter plot
+* scatter plot
 <img width="500" alt="task3_scatter plot" src="https://user-images.githubusercontent.com/44735519/47966808-b41c5400-e024-11e8-8579-5390146a007c.PNG">
 
-### scatter plot matrix
+* scatter plot matrix
 ![task4_scatter plot matrix](https://user-images.githubusercontent.com/44735519/47966845-d9a95d80-e024-11e8-8ebd-7aad70050ff1.png)
 
 
