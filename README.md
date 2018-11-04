@@ -60,11 +60,11 @@ This repository contains the implementation of several data visualization skills
 #### Each airport is mapped on real-world map based on their latitude and longitude
 ![p3-2](https://user-images.githubusercontent.com/44735519/47969028-d7083180-e03f-11e8-8317-2bdfe3c73af3.gif)
 
-### Weighted networks graph
+### || Weighted networks graph
 #### Coloring and edge width show the weight/frequency/importance of nodes and edges
 ![p3-3](https://user-images.githubusercontent.com/44735519/47969030-d7083180-e03f-11e8-891f-4492cdab8d6c.JPG)
 
-### Networks with slider bars 
+### || Networks with slider bars 
 #### Slider bars allow filtering different weights of nodes or edges to be shown 
 ![p3-5](https://user-images.githubusercontent.com/44735519/47969032-d7083180-e03f-11e8-8f84-07bf20c2e24b.gif)
 
