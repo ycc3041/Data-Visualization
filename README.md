@@ -51,7 +51,7 @@ This repository contains the implementation of several data visualization skills
 ![p2-4](https://user-images.githubusercontent.com/44735519/47968892-028a1c80-e03e-11e8-920a-f2163ac6d911.gif)
 
 
-## Project 3: US Airlines Networks Visualization with 1997 US Airlines Dataset
+## Project 3: Networks Visualization with 1997 US Airlines Dataset
 
 ### || Networks graph 
 #### Each node represents an airport and each edge represents a route
