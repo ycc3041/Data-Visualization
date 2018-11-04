@@ -10,6 +10,7 @@ This repository contains the implementation of several data visualization skills
 * bokeh 0.13.0
 * networkx 1.11
 
+
 ## Project 1: Basic Visualization Techniques
 #### *dataset: cars*
 
@@ -32,29 +33,39 @@ This repository contains the implementation of several data visualization skills
 ### || Bubble chart
 ![p2-1](https://user-images.githubusercontent.com/44735519/47968862-87286b00-e03d-11e8-978b-88b97c86c79c.gif)
 
-### || Bubble chart with widgets for users to choose each x,y ,radius and color
+
+### || Bubble chart with widgets 
+#### Users can choose each x,y ,radius and color
 ![p2-2](https://user-images.githubusercontent.com/44735519/47968863-88599800-e03d-11e8-8e72-bdd016346ff7.gif)
 
-### || Bubble chart matrix with brushing, whereby the local selection of some data points in a visualization triggers the selection of the same data points in another visualization
+
+### || Bubble chart matrix with brushing
+#### The local selection of some data points in a visualization triggers the selection of the same data points in another visualization
 ![p2-3](https://user-images.githubusercontent.com/44735519/47968889-fdc56880-e03d-11e8-9764-9cb9d455c68f.gif)
 
-### || Bubble chart matrix with hover, which trigger the display of all the attributes associated with a given data point.
+
+### || Bubble chart matrix with hover
+#### The hover over points trigger the display of all the attributes associated with a given data point
 ![p2-4](https://user-images.githubusercontent.com/44735519/47968892-028a1c80-e03e-11e8-920a-f2163ac6d911.gif)
 
 
-## Project 3: Networks Visualization
+## Project 3: US Airlines Networks Visualization
 #### *dataset: 1997 US airlines*
 
-### Networks graph which each node represents an airport and each edge represents the route
+### || Networks graph 
+#### Each node represents an airport and each edge represents a route
 ![p3-1](https://user-images.githubusercontent.com/44735519/47969027-d7083180-e03f-11e8-9872-c7224dd2722f.JPG)
 
-### Networks graph which map the airports on real-world map 
+### || Geospatial networks visualization
+#### Each airport is mapped on real-world map based on their latitude and longitude
 ![p3-2](https://user-images.githubusercontent.com/44735519/47969028-d7083180-e03f-11e8-8317-2bdfe3c73af3.gif)
 
-### Networks graph with coloring and edge width to show the weights
+### Weighted networks graph
+#### Coloring and edge width show the weight/frequency/importance of nodes and edges
 ![p3-3](https://user-images.githubusercontent.com/44735519/47969030-d7083180-e03f-11e8-891f-4492cdab8d6c.JPG)
 
-### Networks with slider bars to filter the weights
+### Networks with slider bars 
+#### Slider bars allow filtering different weights of nodes or edges to be shown 
 ![p3-5](https://user-images.githubusercontent.com/44735519/47969032-d7083180-e03f-11e8-8f84-07bf20c2e24b.gif)
 
 
