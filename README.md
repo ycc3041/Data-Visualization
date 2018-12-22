@@ -63,11 +63,6 @@ This repository contains the implementation of several data visualization skills
 [Code Here](https://github.com/ycc3041/Data-Visualization/blob/master/P3_Networks%20Visualization/ii.%20geospatial%20visualization.py)
 ![p3-2](https://user-images.githubusercontent.com/44735519/47970127-315cbe80-e04f-11e8-8ac5-3549296cd600.gif)
 
-### || Weighted networks graph
-#### Coloring and edge width show the weight/frequency/importance of nodes and edges
-[Code Here](https://github.com/ycc3041/Data-Visualization/blob/master/P3_Networks%20Visualization/iii.%20complex%20networks%20visualization.py)
-![p3-3](https://user-images.githubusercontent.com/44735519/47970128-315cbe80-e04f-11e8-98db-327170ec7b26.JPG)
-
 ### || Networks with slider bars 
 #### Slider bars allow filtering different weights of nodes or edges to be shown 
 [Code Here](https://github.com/ycc3041/Data-Visualization/blob/master/P3_Networks%20Visualization/v.%20networks%20with%20filtering.py)
